@@ -1,4 +1,4 @@
-# Extended Topological Regression
+# Adaptive Topological Regression
 
 ## Introduction
 This Python package provides implementations for Topological Regression (TR) [1] and Adaptive Topological Regression (AdapToR) [2]. AdapToR builds upon TR by incorporating three technical improvements and two novel approaches: adaptive anchor selection and optimization-based response reconstruction. As demonstrated in [2], AdapToR outperforms TR and deep learning models on the NCI60 GI50 dataset and 530 ChEMBL datasets, establishing itself as a powerful, robust, computationally efficient, and interpretable tool for QSAR modeling.
