@@ -5,7 +5,7 @@ This Python package provides implementations for Topological Regression (TR) [1]
 
 For more information, please refer to:
 1. Zhang, Ruibo, et al. "Topological regression as an interpretable and efficient tool for quantitative structure-activity relationship modeling." Nature Communications 15.1 (2024): 5072. 
-2. Mao, Yixiang, et al. "AdapToR: Adaptive Topological Regression for quantitative structure-activity relationship modeling." 
+2. Mao, Yixiang, et al. "AdapToR: Adaptive Topological Regression for quantitative structure-activity relationship modeling." bioRxiv:https://www.biorxiv.org/content/10.1101/2025.04.02.646801v1
 
 ## Installation
 **Step 1: Create a conda environment (optional)**
